@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Bolsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Botin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Build.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuildObjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CampeonBuild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CampeonObjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Centinela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chroma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cofre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Configuracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Desafio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dragon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EquipoTorneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estadistica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Eterno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Habilidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hechizo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Historial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inhibidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Jugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Maestria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mapa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatchMakingRank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatchMakingRankHistorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatchMakingRankUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModoJuego.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MounstroKG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MounstroVacio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Objeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaginaRuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Parche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Partida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PartidaMatchMakingRank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaseBatalla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rango.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RangoSeason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Regalo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Region.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
